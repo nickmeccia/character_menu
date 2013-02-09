@@ -1,0 +1,103 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  font-size: 16px;
+  font-family: 'im_fell_regular', serif;
+}
+
+/* LAYOUT ---------------------------------------------------------------*/
+
+.content {
+  width: 100%;
+  height: 100%;
+  background-color: #aaa;
+}
+.sidebar {
+  width: 40%;
+  height: 100%;
+  background-color: #999;
+  float: left;
+}
+.main {
+  width: 60%;
+  height: 100%;
+  background-color: #ccc;
+  float: left;
+}
+.title {
+  width: 100%;
+  background-color: #ddd;
+}
+section {
+  width: 200px;
+  border: 1px solid black;
+  float: left;
+  margin-right: 5px;
+}
+section.last {
+  margin-right: 0;
+}
+
+/* TYPOGRAPHY -----------------------------------------------------------*/
+
+h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+h4 {
+  font-size: 1rem;
+}
+
+/* LISTS ----------------------------------------------------------------*/
+
+li {
+  background-color: #eee;
+  margin-bottom: 2px;
+  padding: 2px;
+}
+li.completed {
+
+}
+li.active {
+
+}
+li.locked {
+  text-indent: -9999px;
+  line-height: 0.5rem;
+}
+li.locked:after {
+  content: "locked";
+  text-transform: uppercase;
+}
+
+
+/* FONTS ----------------------------------------------------------------*/
+
+@font-face {
+  font-family: 'im_fell_italic';
+  src: url('../fonts/feenit27c-webfont.eot');
+  src: url('../fonts/feenit27c-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/feenit27c-webfont.woff') format('woff'),
+       url('../fonts/feenit27c-webfont.ttf') format('truetype'),
+       url('../fonts/feenit27c-webfont.svg#im_fell_english_proitalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'im_fell_regular';
+  src: url('../fonts/feenrm28c-webfont.eot');
+  src: url('../fonts/feenrm28c-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/feenrm28c-webfont.woff') format('woff'),
+       url('../fonts/feenrm28c-webfont.ttf') format('truetype'),
+       url('../fonts/feenrm28c-webfont.svg#im_fell_english_proregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

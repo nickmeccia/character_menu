@@ -1,20 +1,63 @@
-[:div {:style "text-align: center;"}
- [:img {:src "/images/joodo.png"}]
- [:h1 "Welcomes You!"]]
+[:div.content
+ [:div.sidebar]
 
-[:h3 "Intro"]
-[:p "Joodo is a clojure framework for building web applications. The project home is at "
- [:a {:href "https://github.com/slagyr/joodo"} "https://github.com/slagyr/joodo"] "."
- "It consists of 3 parts"
- [:ul
-  [:li [:b "Kuzushi"] "- which means 'breaking balance', is a Leiningen plugin that supplies all the Geashi commands."]
-  [:li [:b "Tsukuri"] "- which means 'entry', is a library containing all the development tools."]
-  [:li [:b "Kake"] "- which means 'execution', is the runtime library that contains all the main APIs."]]]
+ [:div.main
+  [:div.title
+   [:hgroup
+    [:h1 "mark g"]
+    [:h2 "level 1 barbarian"]]]
 
-[:h3 "License"]
-[:p "Copyright (C) 2011-2012 Micah Martin All Rights Reserved."]
-[:p "Distributed under the The MIT License."]
+  [:section
+   [:h3 "quests"]
+   [:ol
+    [:li.completed
+     [:h4 "Typography"]]
+    [:li.active
+     [:h4 "Layout"]]
+    [:li.active
+     [:h4 "Display Type"]]
+    [:li.locked
+     [:h4 "Color"]]
+    [:li.locked
+     [:h4 "Fibonacci Scale"]]
+    [:li.locked
+     [:h4 "Revise Tic Tac Toe"]]
+  [:li.locked
+   [:h4 "Design a Blog"]]
+    [:li.locked
+     [:h4 "Design a Portfolio"]]]]
 
-[:p "This app was generated for character-menu."]
+  [:section
+   [:h3 "side quests"]
+   [:ol
+    [:li
+     [:h4 "Read Prince of Cats"]]
+    [:li
+     [:h4 [:a {:href "http://asdf.com/"} "Watch John Cleese"]]]]]
 
-[:p "asdf"]
+   [:section
+    [:h3 "tomes"]
+    [:ol
+     [:li.completed
+      [:h4 "Thinking With Type"]
+      [:h5 "by Ellen Lupton"]]
+     [:li.completed
+      [:h4 "Ordering Disorder: Grid Principles for Web Design"]
+      [:h5 "by Khoi Vinh"]]
+     [:li.locked
+      [:h4 "Making and Breaking the Grid"]
+      [:h5 "Some Dude"]]]]
+
+    [:section.last
+     [:h3 "records"]
+     [:ol
+      [:li.active "blog post for week 1"]
+      [:li.active "blog post for week 2"]
+      [:li.active "blog post for week 3"]
+      [:li.active "blog post for week 4"]
+      [:li.active "blog post for week 5"]
+      [:li.active "blog post for week 6"]
+      [:li.active "blog post for week 7"]
+      [:li.active "blog post for week 8"]
+      ]]
+  ]]

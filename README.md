@@ -1,4 +1,4 @@
-character_menu
-==============
+Apprenticeship Character Menu
+=============================
 
-Displays progress and items.
+A to-do list for apprentices that tracks progress in various categories with the theme of an RPG.
