@@ -1,5 +1,6 @@
 [:div.content
- [:div.sidebar]
+ [:div.sidebar
+  [:img {:src "images/mark/portrait.jpg"}]]
 
  [:div.main
    [:hgroup
