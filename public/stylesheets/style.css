@@ -18,6 +18,10 @@ body, html {
   height: 100%;
   float: left;
 }
+.sidebar img {
+  width: 700px;
+  margin: 2rem 0 0 -4rem;
+}
 .main {
   width: 60%;
   height: 100%;
@@ -35,6 +39,25 @@ section {
 section.last {
   margin-right: 0;
 }
+.lightbox {
+  background-color: #f2efe6;
+  border: 1px solid #d6cdc1;
+  border-radius: 4px;
+  box-shadow: 0px 3px 1rem #afa79c;
+  display: none;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  max-height: 42rem;
+  overflow: scroll;
+  width:  33rem;
+  margin: auto;
+  margin-top: 5rem;
+  padding: 1.8125rem 1.1875rem 3rem 1.1875rem;
+  z-index: 10;
+  pointer: pointer;
+}
 
 /* TYPOGRAPHY -----------------------------------------------------------*/
 
@@ -45,7 +68,6 @@ a {
 h1 {
   color: #fcdb6d;
   font-size: 5.375rem;
-  text-transform: uppercase;
   letter-spacing: 0.1875rem;
 }
 h2 {
@@ -54,12 +76,15 @@ h2 {
   letter-spacing: 0.1875rem;
   padding-bottom: 1rem;
 }
+h2 span {
+  font-size: 3rem;
+}
 h3 {
   font-size: 1.8125rem;
   text-transform: uppercase;
   padding-bottom: 1rem;
 }
-h4 {
+h4, h6 {
   font-size: 1rem;
   padding-bottom: 0.5rem;
   display: inline;
@@ -68,20 +93,27 @@ h5 {
   font-family: 'im_fell_italic', serif;
   padding: 0.5rem 0 0 1.1875rem;
 }
+p {
+  padding-bottom: 1rem;
+  line-height: 1.1875rem;
+}
 
 /* LISTS ----------------------------------------------------------------*/
 
 li {
   background-color: #f2efe6;
+  border: 1px solid #d6cdc1;
   border-radius: 2px;
-  box-shadow: 1px 1px 4px #c0b8ac;
   padding: 0.75rem 1rem 0.75rem 1.1875rem;
   margin: 0.5rem 0;
   text-indent: -0.75rem;
 }
-li h4 {
+li > h4 {
   position: relative;
   left: 0.5rem;
+}
+li > div {
+  text-indent: 0rem;
 }
 
 li.completed {
@@ -114,6 +146,11 @@ li.locked {
   text-indent: -9999px;
   line-height: 0;
   padding: 1.1875rem 0 1rem 1.8125rem;
+}
+li.locked:hover {
+  background-color: #d66b4b;
+  color: #ffd2c4;
+  cursor: pointer;
 }
 li.locked h4 {
   display: block;

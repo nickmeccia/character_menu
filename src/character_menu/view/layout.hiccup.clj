@@ -5,6 +5,7 @@
   [:title "character-menu"]
   (include-css "/stylesheets/reset.css")
   (include-css "/stylesheets/style.css")
+  (include-js "/javascript/zepto.min.js")
   (include-js "/javascript/character_menu.js")]
  [:body
   (eval (:template-body joodo.views/*view-context*))
