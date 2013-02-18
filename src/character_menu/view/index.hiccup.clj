@@ -1,6 +1,6 @@
 [:div.content
  [:div.sidebar
-  [:img {:src "images/mark/01.png"}]]
+  [:img {:src "images/mark/04.png"}]]
 
  [:div.main
   [:hgroup

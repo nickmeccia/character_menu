@@ -4,9 +4,9 @@
   [:li.completed
    [:h4 "Typography"]
    [:div.lightbox
-    [:p "MISSION 01: Typography"]
+    [:h3 "Typography"]
     [:p "OBJECTIVE: Create hierarchy through the Minimum Laws of
-       Typography®."]
+       Typography&#174;."]
     [:p "DESCRIPTION: Create a series of webpages with the content below.
        Each section of text should be a separate page. Create an index
        page to link to each. You are going to have to read the content
@@ -30,8 +30,6 @@
     [:p "TURN IN:
                  * 6 pages, one for each section of content below
                  * An index that links to each page"]
-    [:p "                 ASSOCIATED READING: \"Thinking With Type\" by Ellen
-                 Lupton"]
     [:p "                TOTAL TIME: 3 points"]
     [:p "                 DUE DATE: Mon, Feb 4"]
     [:p "                 REWARD: 100 EXP, 50 Gold, Shard of Hardstone x1, Wooden Shield"]
