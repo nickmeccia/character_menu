@@ -54,10 +54,16 @@ section.last {
   max-height: 42rem;
   width:  33rem;
   margin: auto;
-  margin-top: 5rem;
+  margin-top: 2rem;
   padding: 1.8125rem 1.1875rem 3rem 1.1875rem;
   z-index: 10;
   pointer: pointer;
+}
+.lightbox li {
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-indent: 0;
 }
 
 /* TYPOGRAPHY -----------------------------------------------------------*/

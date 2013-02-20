@@ -1,0 +1,354 @@
+
+
+
+name of website:
+I Love Typography
+
+
+navigation:
+* home
+* ILT shop
+* codex mag
+* search
+* contact
+* free
+* about
+* font game
+* news
+* WLT
+* typekit
+
+
+our marketers told us we should probably include this somewhere:
+* subscribe
+
+
+"reading":
+* the anatomy of type by stephen coles
+* designing books by Hochuli & Kinross
+* Thinking with type by Ellen Lupton
+* Elements of typographic style by Robert Bringhurst
+* Secret history of letters by Simon Loxley
+* Stop stealing sheep by Erik Spiekermann
+* Complete manual of typography by James Felici
+
+
+random article link:
+Take a chance!
+click for a random article
+
+
+archive:
+2012: [12] [11] [10] [09] [08] [07] [06] [05] [04] [03] [02] [01]
+2011: [12] [11] [10] [09] [08] [07] [06] [05] [04] [03] [02] [01]
+2010: [12] [11] [10] [09] [08] [07] [06] [05] [04] [03] [02] [01]
+2009: [12] [11] [10] [09] [08] [07] [06] [05] [04] [03] [02] [01]
+2008: [12] [11] [10] [09] [08] [07] [06] [05] [04] [03] [02] [01]
+2007: [12] [11] [10] [09] [08]
+
+
+popular articles:
+The origins of abc
+Best ‘fonts’ of 2009
+How to make a font
+Type terminology
+Type history series
+Web typography guide
+On choosing type
+Identify that font
+Who shot the serif?
+Arial vs Helvetica
+
+
+categories:
+Font News
+Interviews
+Making Fonts
+Book Reviews
+Recent
+
+
+Links:
+MyFonts
+YouWorkForThem
+Coudal
+Jason Santa Maria
+Elliot Jay Stocks
+Smashing Magazine
+Daring Fireball
+
+
+"admin":
+register
+log in
+
+
+fonts that you can buy and stuff:
+Codex 2 - Buy it now!
+December Fonts:
+New Tungsten
+October Fonts:
+Humming
+July Fonts:
+idlewild
+Pluto Sans
+June Fonts:
+Encorpada
+May Fonts:
+Funkydori
+Candy
+Trim
+Lapture
+April Fonts:
+Wayfinding Sans
+
+
+index of posts:
+
+JAN 12 2013
+A Firm Turn Toward the Objective: Josef Müller-Brockmann 1948–1981
+
+In February of 1989, I had the pleasure of meeting Josef Müller-Brockmann. I was a young, wide-eyed student of 21 years studying at Arizona State University. With great fortune, a professor of mine had heard that Müller-Brockmann was going to be in the country and asked him to add a stop in Tempe, Arizona. The program director for the design department at ASU at the time was the famous Rob Roy Kelly, known for putting together successful design programs, many of which became blueprints for other design schools. Because of Müller-Brockmann’s interest in design education, he accepted the invitation.
+
+Continue reading this article
+
+
+JAN 3 2013
+Codex Editorial Board
+Beginning with Codex 3, we are pleased to announce that the journal will have an editorial board comprised of eminent figures in the fields of graphic design and typography, type design, type and printing history, and typographic education. The members, whose biographies are listed below, represent a cross-section of the letterphile world. They are a diverse lot, in terms of age, gender and geography, but also in their aesthetic stances. We expect their advice and involvement with Codex will make for a richer publication in the future.
+Continue reading this article
+
+
+DEC 9 2012
+TDC type-design competition 2012
+
+The Type Directors Club in New York City has been holding an annual competition for the best in typography (that is, the use of type in graphic design) since the 1950s. In 1997, James Montalbano and Paul Shaw founded TDC2, a second competition that dealt specifically with the design of typefaces. Together, they chaired the first two TDC2 competitions, and they have remained closely involved with it ever since.
+
+Continue reading this article
+
+
+NOV 1 2012
+The Voice of all the Gods
+
+Today I’ve released two limited edition prints along with some originals. The prints are based on words penned by William Shakespeare and Dylan Thomas.
+
+‘The Voice of all the Gods’ is a quote from Shakespeare’s ‘Loves Labours Lost.’ The first time I read the passage in which this phrase occurs I couldn’t get it out of my head for weeks. The words are extraordinarily rich, and I wanted my visual interpretation to reflect this. The main source of inspiration for the letterforms comes from the 18th century, but I’ve tried to rework or re-imagine them in the spirit of our time. Above all, I wanted my interpretation of Shakespeare’s words to capture their shimmering beauty and harmony.
+
+Continue reading this article
+
+
+OCT 16 2012
+Hipster Hummingbirds
+
+Let’s start with some fantastic news: Issue #2 of Codex magazine is now available for pre-order. What’s more, you can now purchase a subscription. The second issue is rather special — A new Editor in Chief (Paul Shaw), a complete redesign (Linda Florio), more pages, more of the very, very best content. Spread the word.
+Continue reading this article
+
+
+SEP 25 2012
+Beauty and Ugliness in Type design
+
+Peter Biľak on the process of designing his newly released Karloff typeface, demonstrating just how closely related beauty and ugliness are. Karloff explores the idea of irreconcilable differences — how two extremes could be combined into a coherent whole.
+
+Continue reading this article
+
+
+
+---------------------------------
+
+
+
+name of website:
+Gizmodo
+
+
+links of things or whatever:
+sign in
+search
+change layout: traditional, two panes, blog view
+
+
+title:
+Microsoft Surface Pro Review: Too Much Future?
+
+
+author:
+kyle wagner
+
+
+tags:
+review
+microsoft
+surface
+surface pro
+windows 8
+windows
+gadgets
+hybrids
+
+
+date:
+feb 5, 2013 9:00pm
+
+
+social:
+81,308 hitz
+338 commentz
+share
+like
+google +1
+
+
+other stories:
+This Hilarious Song Pretty Much Explains the Internet and Memes
+category: HUMOR
+views: 22,131
+time: 8:00 PM
+
+Melodysheep: The WTF Singalong (EXPLICIT)
+category: SOUNDTRACK
+views: 5,706
+time: 7:00 PM
+
+Disney Confirms That It Will Make Spin Off Star Wars Movies Based on Individual Characters
+category: STAR WARS
+views: 25,569
+time: 6:40 PM
+
+WebMD Allergy: Assuage Your Seasonal Suffering
+category: APP OF THE DAY
+views: 3,235
+time: 6:00 PM
+
+Who the Hell Can Understand the Voyager Disc’s User Manual?
+category: SPACEMODO
+views: 38,789
+time: 5:44 PM
+
+Not Even a Samurai’s Wraith Can Fell This Beautiful Wooden Chair
+category: WISH YOU WERE HERE
+views: 14,583
+time: 5:26 PM
+
+The Beanbag Has Finally Been Perfected
+category: DAILY DESIRED
+views: 32,158
+time: 5:00 PM
+
+category: Jack White’s Next Record Will Be Printed On the Bones Of Humans Past
+category: MUSIC
+views: 17,396
+time: 4:33 PM
+
+
+this is a list of links:
+About
+Help
+Jobs
+Legal
+Privacy
+Permissions
+Advertising
+Subscribe
+Send a tip
+
+
+Specs as tested:
+Display: 10.6-inch ClearType 1920x1080 (207PPI)
+Processor: Intel Core i5 Ivy Bridge
+Graphics: Intel HD 4000
+Memory: 4GB
+Storage: 128GB SSD
+Ports: Full-size USB 3.0, microSDXC card slot, Headset jack, Mini DisplayPort, Cover port
+Cameras: Two 720p HD LifeCams, front- and rear-facing
+Dimensions: 10.81 x 6.81 x 0.53in
+Weight: 2 pounds
+Price: $1000; $130 more for a Touch Cover
+GizRank: 3.0
+
+
+
+this part is the review:
+
+The Microsoft Surface was the biggest new tech of 2012. Its first iteration—Surface RT, a confusingly named and marketed tablet-with-a-keyboard—bombed. Pretty hard. So why believe in the full-powered Surface Pro? Simple. It's a braver and more divergent take on the laptop-tablet convergence than anyone else has risked so far.
+
+But while the Pro improves on the RT in nearly every measurable way, it presents a whole different problem set for Microsoft. Where the RT was aiming at Tablet Plus—an ambitious enough goal—the Pro cannot afford to be Laptop Minus. In this strange new world of hybrid devices, is that even possible?
+Why It Matters
+The Surface Pro is the fullest expression of the Windows 8 ethos. It has the face of a tablet, the guts of a laptop, and the soul of a crystal ball. Where other convertibles have struggled to contort old world design into now-world needs, the Surface starts fresh. This is the best chance we have to prove we might finally be ready to move past traditional, tired designs and interfaces.
+
+But the Pro is also a reality check for Windows 8 itself. Defenders of the new OS insist that it just hasn't been given the right vessel to showcase it yet. Well, there will never be any righter hardware for Windows 8 than Surface Pro. If it doesn't work here, maybe there's a problem.
+
+Design
+Like the Surface RT before it, the Surface Pro is gorgeous. The Pro is a bit thicker than the RT, but keeps the same design principles. Trapezoidal angles, sure-footed kickstand, snap-in keyboard cover. Both Surfaces are so pretty and neat and new that you'll pick them up and touch them when you don't even need to use them.
+
+At first blush, the Pro looks thick for what it is—a slate—and that can give the impression that it's bigger than small-for-a-laptop machines like the MacBook Air. Don't be fooled; it's actually lighter and thinner than the 11.6-inch Air. Along with the Surface, Microsoft will happily sell you either a Touch or Type cover, both of which function as the Surface's keyboard and trackpad. The Type cover has a traditional keyboard that's basically full sized, while the Touch cover is a flat surface that detects your keystrokes with no moving parts. While these were purely optional on the Surface RT, they're essential to approaching the Surface Pro's full-PC potential.
+
+Using It
+The Surface Pro runs Windows 8 Pro, meaning it plays nice with all of Surface RT's Metro apps as well as all your old desktop apps. Its Ivy Bridge i5 processor, the same you'll find in most ultrabooks, launches apps almost instantly (another big upgrade from Surface RT). Want to use Surface Pro as a laptop? Snap in a keyboard cover, pop out the kickstand, set it down on a table. It works a lot like you see in the commercials.
+
+If you try to use the Surface Pro like every laptop you've ever owned, though, you'll break it over your knee inside of a week. Sitting with it on your lap on the couch or a train seat, for instance, or typing IMs or emails in bed—you're not going to want to do any of that stuff here. It'll wobble on your leg. It won't prop itself up at a viewable angle on your chest. Surface looks and acts like a laptop when it has its keyboard cover in, but it's not one. It's less sturdy, less adjustable.
+
+Surface Pro's point of view is that, well, why the hell wouldn't you just take the cover off and switch to tablet mode in those spots? That's its answer to a lot of things, actually. Inconvenient? You should be using touch instead! Which is valid, to a point. Maybe you should use touch to scroll instead of using the iffy trackpad. But that glosses over the loss of real utility, the ability to do some of the most common things people do with their computers, in the most common ways they do them. In many ways, it defeats the purpose. That's a deal-breaker for many who don't have any use for the future-is-here features of the Surface.
+
+As a tablet, the Pro has significantly more heft to it than the iPad or Nexus 10. But the build quality is so strong—everything feels like it just fits—that you don't really mind, unless you try to use it one-handed. It's a little too heavy for that, which is understandable considering the guts, but enough to make you question if you actually want a Core i5 in a tablet—a serious concern for the Surface. Apps are fast (even the Kindle app lagged badly on Surface RT), and more importantly, the improved screen (207PPI) makes reading books or articles in the Metro UI at least comparable to the experience on competing tablets. And you'll actually appreciate having those big fullscreen apps for once, since the decision to switch to touch is more natural than other hybrid laptops.
+
+One of the Pro's fundamental problems is almost tragically ironic. Its screen is too good. Which is to say, its 1080p resolution is so dense on the 10.6-inch screen that desktop programs seem too small, too cramped. Since you're already going to probably be hunched over your desk and squinting while using this 10.6-inch screen, teeny tiny text isn't much of a help. To offset this, Microsoft has made the default Magnification setting 150 percent. That helps a bit by enlarging icons, text, and some apps, but results in many third party apps—like the Steam client—looking like fuzzy eyesores. It's a similar problem to non-retina-optimized apps on a retina MacBook Pro.
+
+Even with the magnification, many of the controls remain too small to touch with any accuracy, a problem exacerbated by the too-small trackpad on both covers. A lot of this can be solved up by hooking up Surface Pro to a second screen. But Hey it works fine when you're stationary at your desk and connected to a huge monitor isn't exactly the on-the-go uprising the Surface Pro promised.
+
+Should you buy this?
+If it fits your professional needs, you'll at least want to consider it. Same goes if you have enough scratch to take a flyer on a secondary computer (that also happens to represent the future of computing). For anyone else, the Surface Pro probably isn't worth it.
+
+The Surface Pro is ultimately the best answer to questions a lot of people haven't bothered asking yet. That's different from being extraneous—it's more like being the girl who shows up 30 minutes early to every party—but it still means the Pro isn't for everyone. For a lot of you, a thick, superpowered tablet isn't necessary, and a laptop-like (and laptop-priced) machine that makes it harder to bang out emails, IMs, and tweets while on the couch or in bed is nothing you're interested in.
+
+
+
+
+
+commentz:
+
+147 discussions in response to Kyle WagnerReply
+
+
+pagan_god Reply
+Riddle me this-- I usually travel with a (windows) laptop and an android tablet these days. If I'm willing to accept that "laptop mode" really means "sit at a desk with a real mouse", is this an acceptable replacement for both devices? I don't have any only-on-iPad needs on the tablet side.
+
+
+GoodBytes Reply
+All I see on this article is, a lot of nit picking and acting like big issue when they are not. The main purpose of the digitize pen is to use desktop programs as everything is tiny. Also, there is a real keyboard option, if you are going to game or want a better touchpad experience.
+
+Also, who uses a laptop on their lap? Like seriously use it. If you are going to write notes, then you would be using the pen and normally write on the screen.
+
+Also, how can you have a YouTube running for 10hours and have 2h and half of battery life?
+
+The rest is fine.
+
+
+TZpilot Reply
+Whoever says this can't be used on a lap hasn't tried it (or is really uncoordinated). I had no trouble typing away while laying on a couch. For the very uncoordinated, I'm sure someone will come up with an expensive, bent piece of metal to prop it up at a more perfect angle.
+
+
+Killer_WaLrUs Reply
+MAAAAAAAANNN.... I'm really torn about the Surface Pro now. Its been getting decent reviews with many reviewers saying the same thing: it has a ton of potential, which is great. I've bought the first Retina iPad and I loved it, but then I felt like an idiot when the newer full sized iPad had the newer Thunderbolt port on it. That's how Apple makes me feel. "Oh you bought our latest and greatest? If only you waited 6 more months, you could have had THIS." Always a step behind, but the Surface actually puts its potential out in front of it and it might just win me over...ever with its absurd price tag. Maybe I'll let it swim out in the wilderness to see how the market takes to it before making a rash decision.
+
+
+yosoyfiesta  Reply
+Thanks for the review Kyle! I thought it was very fair. I'm not ready to buy one of these yet, but I think it's an exciting device and hopefully they'll address its issues in future versions.
+
+
+Nitesh Reply
+Honestly I'd be thrilled if the Surface design team made a more standard ultrabook with a similar industrial design. It's cool that they were able to fit a full i5 computer into a system this small, but the design doesn't always make it practical to use, I'd rather a sturdy fixed keyboard. They could still have a "tablet" mode by flipping back like the Lenovo Yoga.
+
+
+Core.2 Reply
+I think I would rather go with an iPad and keyboard case. For $1130 with the touch cover you are into win8 touchscreen laptop territory.
+
+
+Geoff Mac Reply
+another toaster/refrigerator fail
+
+
+
+
+
+
+
