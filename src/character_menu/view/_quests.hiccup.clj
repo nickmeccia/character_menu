@@ -12,14 +12,9 @@
     [:ul
      [:li "RESTRICTIONS:"]
      [:li "* Greyscale only; no color allowed."]
-     [:li "* Manipulate hierarchy using only:"]
-     [:li "* Size"]
-     [:li "* Proximity"]
-     [:li "* Value"]
+     [:li "* Manipulate hierarchy using only size, proximity, and value"]
      [:li "* You are allowed to add (or remove) italics, bold, underline, all-caps"]
-     [:li "* All pages should be:"]
-     [:li "* Comfortably readable"]
-     [:li "* Obvious in their hierarchy"]
+     [:li "* All pages should be comfortably readable and obvious in their hierarchy"]
      [:li "* A hint: not all of these sections should have the same width."]]
     [:ul
      [:li "TURN IN:"]
@@ -41,14 +36,9 @@
     [:ul
      [:li "RESTRICTIONS:"]
      [:li "* Greyscale only; no color allowed."]
-     [:li "* Manipulate hierarchy using only:"]
-     [:li "* Size"]
-     [:li "* Proximity"]
-     [:li "* Value"]
+     [:li "* Manipulate hierarchy using only size, proximity, and value"]
      [:li "* You are allowed to add (or remove) italics, bold, underline, all-caps"]
-     [:li "* All pages should be:"]
-     [:li "* Comfortably readable"]
-     [:li "* Obvious in their hierarchy"]
+     [:li "* All pages should be comfortably readable and obvious in their hierarchy"]
      [:li "* I can't stop you from visiting the real-life websites I lifted this text from, but I can discourage it. Even a knowledge of what these websites look like (if you don't know already) will influence your decisions."]]
     [:ul
      [:li "TURN IN:"]
@@ -109,7 +99,7 @@
      [:h3 "Blog"]
      [:h4 "3 points | due Mon, Mar 4"]]
     [:p "OBJECTIVE: Use all of the spells and abilities your have learned thus far to create a personal blog."]
-    [:p "DESCRIPTION: Using whichever programming tools suit your preference (Rails, Joodo, Rack, Tumblr, Wordpress, static HTML & CSS, etc.), design a blog website for the posts you have written/will write durin this apprenticeship. This blog should have:"]
+    [:p "DESCRIPTION: Using whichever programming tools suit your preference (Rails, Joodo, Rack, Tumblr, Wordpress, static HTML & CSS, etc.), design a blog website for the posts you have written/will write during this apprenticeship. This blog should have:"]
     [:ul
      [:li "* Post content"]
      [:li "* Post title"]
@@ -122,7 +112,7 @@
      [:li "* Three layout sketches"]
      [:li "* At least one color swatch"]
      [:li "* A link to your blog, hosted somewhere on the web"]]
-    [:p [:span.xp "400"] "& cloak"]]]
+    [:p [:span.xp "400"] "& "]]]
 
   [:li.locked
    [:h4 "Fibonacci Scale"]]

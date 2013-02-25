@@ -199,7 +199,16 @@ li.locked:after {
   border: none;
   text-indent: 0;
 }
-
+.lightbox > img {
+  float: left;
+}
+.lightbox > div {
+  float: left;
+  margin-left: 1rem;
+}
+.lightbox iframe {
+  margin-bottom: 1rem;
+}
 
 
 /* @MEDIA ---------------------------------------------------------------*/
