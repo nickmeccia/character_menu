@@ -1,4 +1,4 @@
-[:section.last
+[:section
  [:h3 "records"]
  [:ol
   [:li.active

@@ -1,8 +1,8 @@
 [:div.content
- [:div.sidebar
+ [:aside
   [:img {:src "images/mark/04.png"}]]
 
- [:div.main
+ [:article
   [:hgroup
    [:h1 "dark3stvampyre"]
    [:h2 "level " [:span "1"] " blood mage"]

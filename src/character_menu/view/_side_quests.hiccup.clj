@@ -4,7 +4,7 @@
   [:li.active
    [:h4 "Read Prince of Cats"]
    [:div.lightbox
-    [:p "Do it already!"]]]
+    [:img {:src "/images/books/prince-of-cats.jpg"}]]]
 
   [:li.active
    [:h4 "Watch John Cleese"]
