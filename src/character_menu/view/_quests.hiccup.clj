@@ -22,7 +22,10 @@
      [:li "* An index that links to each page"]]
     [:p "TOTAL TIME: 3 points"]
     [:p "DUE DATE: Mon, Feb 4"]
-    [:p [:span.xp "200"] "& Bone Wand"]
+    [:p
+     [:span.xp "200"]
+     [:span.reward [:img {:src "/images/icons/wand.png"}]]
+     "Bone Wand"]
     [:a {:href "/files/typography.txt" :target "_blank"} "Assignment Content"]]]
 
   [:li.completed
@@ -46,7 +49,10 @@
      [:li "* 1 web page for each site, based on the approved sketch"]
      [:li "* An index that links to each page"]
      [:li "* Revised assignment from last week, based on feedback"]]
-    [:p [:span.xp "250"] "& Soldier's Shield"]
+    [:p
+     [:span.xp "250"]
+     [:span.reward [:img {:src "/images/icons/shield.png"}]]
+     "Soldier's Shield"]
     [:a {:href "/files/layout.txt" :target "_blank"} "Assignment Content"]]]
 
   [:li.active
