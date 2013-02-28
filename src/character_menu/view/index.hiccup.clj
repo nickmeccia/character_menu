@@ -6,10 +6,11 @@
   [:hgroup
    [:h1 "dark3stvampyre"]
    [:h2 "fangbanger"]
-   [:h2 "level " [:span "1"] " blood mage"]
+   [:h3 "level " [:span "1"] " blood mage"]
    [:div.progress-bar
-    [:div.completed]
-    [:h4 "675 xp"]]
+    [:div.completed
+     [:h4 "675 xp"]]
+    [:h4 "1125 xp"]]
    [:a {:href "mailto:nickmeccia@gmail.com"} "Report a Completed Quest"]]
 
   (render-partial "quests")
