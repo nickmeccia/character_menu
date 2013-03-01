@@ -3,6 +3,9 @@ $(function() {
     var lightbox = $(lightbox)
     var actuator = lightbox.parent()
 
+    if (actuator.hasClass("locked"))
+      return
+
     lightbox.attr("data-visible", "false")
 
     var reveal = function() {
@@ -16,7 +19,7 @@ $(function() {
       lightbox.attr("data-visible", "false")
       lightbox.hide()
     }
-    
+
     actuator.click(function() {
       if(lightbox.attr("data-visible") === "false")
         reveal()

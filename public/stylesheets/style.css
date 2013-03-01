@@ -176,7 +176,6 @@ li.locked:after {
   float: right;
 }
 .progress-bar .completed h4 {
-//  color: #7de1e7;
   color: #fcfbf5;
 }
 
@@ -202,12 +201,14 @@ li.locked:after {
   z-index: 10;
 }
 .lightbox hgroup {
-  padding: 1rem 0 1rem 0;
+  padding: 1rem 0 1rem 0.5rem;
   background-color: #4c4842;
   border: 1px solid #392c1b;
   border-radius: 3px;
   color: #ffba41;
   display: inline-block;
+  margin-bottom: 1.8125rem;
+  width: 32.5rem;
 }
 .lightbox ul {
   line-height: 1.1875rem;
@@ -224,9 +225,6 @@ li.locked:after {
   float: left;
 }
 .lightbox.columns span {
-  margin-left: 1rem;
-}
-.lightbox.columns span {
   margin: 0 0 1rem 1rem;
 }
 .lightbox.columns span.xp {
@@ -241,7 +239,6 @@ li.locked:after {
   vertical-align: middle;
   width: 9rem;
 }
-
 .lightbox iframe {
   margin-bottom: 1rem;
 }

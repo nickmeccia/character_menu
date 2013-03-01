@@ -7,7 +7,7 @@
    [:h5 "by Ellen Lupton"]
    [:div.lightbox.columns
     [:img {:src "/images/books/thinking-with-type.jpg"}]
-    [:p
+    [:div
      [:span.xp "100"]
      [:span.reward [:img {:src "/images/icons/accessory.png"}]]
      [:span.description "Ring of Rememberance"]
@@ -19,7 +19,7 @@
    [:h5 "by Khoi Vinh"]
    [:div.lightbox.columns
     [:img {:src "/images/books/ordering-disorder.jpg"}]
-    [:p
+    [:div
      [:span.xp "100"]
      [:span.reward [:img {:src "/images/icons/waist.png"}]]
      [:span.description "Belt Buckle of Sorrow"]]
@@ -30,7 +30,7 @@
    [:h5 "by Wilson Harvey"]
    [:div.lightbox.columns
     [:img {:src "/images/books/1000-type-treatments.jpg"}]
-    [:p
+    [:div
      [:span.xp "100"]
      [:span.reward [:img {:src "/images/icons/head.png"}]]
      [:span.description "Silver Circlet of the Moon"]]
@@ -41,7 +41,7 @@
    [:h5 "by Terry Lee Stone"]
    [:div.lightbox.columns
     [:img {:src "/images/books/color-design-workbook.jpg"}]
-    [:p
+    [:div
      [:span.xp "100"]
      [:span.reward [:img {:src "/images/icons/hands.png"}]]
      [:span.description "Leather Armbands"]]
@@ -52,7 +52,7 @@
    [:h5 "by Jeremy Keith"]
    [:div.lightbox.columns
     [:img {:src "/images/books/html5-for-web-designers.jpg"}]
-    [:p
+    [:div
      [:span.xp "50"]
      [:span.reward [:img {:src "/images/icons/hands.png"}]]
      [:span.description "Leather Armbands"]]
@@ -63,7 +63,7 @@
    [:h5 "by Dan Cederholm"]
    [:div.lightbox
     [:img {:src "/images/books/css3-for-web-designers.jpg"}]
-    [:p
+    [:div
      [:span.xp "50"]
      [:span.reward [:img {:src "/images/icons/hands.png"}]]
      [:span.description "Leather Armbands"]]
