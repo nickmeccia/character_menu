@@ -54,19 +54,19 @@
     [:img {:src "/images/books/html5-for-web-designers.jpg"}]
     [:div
      [:span.xp "50"]
-     [:span.reward [:img {:src "/images/icons/hands.png"}]]
-     [:span.description "Leather Armbands"]]
+     [:span.reward [:img {:src "/images/icons/feet.png"}]]
+     [:span.description "Sabateur's Sabatons"]]
     ]]
 
-  [:li.locked
+  [:li.active
    [:h4 "CSS 3 For Web Designers"]
    [:h5 "by Dan Cederholm"]
-   [:div.lightbox
+   [:div.lightbox.columns
     [:img {:src "/images/books/css3-for-web-designers.jpg"}]
     [:div
      [:span.xp "50"]
-     [:span.reward [:img {:src "/images/icons/hands.png"}]]
-     [:span.description "Leather Armbands"]]
+     [:span.reward [:img {:src "/images/icons/accessory.png"}]]
+     [:span.description "Amulet of the Forgotten"]]
     ]]
 
   [:li.locked

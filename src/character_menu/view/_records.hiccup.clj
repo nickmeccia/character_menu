@@ -47,13 +47,13 @@
      "Consumer of Hearts"]
     ]]
 
-  [:li.locked
-   [:h4 "Blog post on ???"]
+  [:li.active
+   [:h4 "Blog post on Fibonacci"]
    [:div.lightbox
     [:p
      [:span.xp "50"]
      [:span.reward [:img {:src "/images/icons/title.png"}]]
-     "упирь"]
+     "y&#1087;&#1080;p&#1068;"]
     ]]
 
   [:li.locked

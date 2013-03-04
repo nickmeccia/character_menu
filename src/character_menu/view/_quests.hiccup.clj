@@ -80,7 +80,10 @@
      [:li "TURN IN:"]
      [:li "* 1 page per section of text"]
      [:li "* Extra credit: link your pages vertically or horizontally using Javascript to create a slideshow or one of those long, scrolly websites. Each section of text should be distinct in its proximity to each other section."]]
-    [:p [:span.xp "300"] "& Scale Greaves"]
+    [:p
+     [:span.xp "300"]
+     [:span.reward [:img {:src "/images/icons/feet.png"}]]
+     "Scale Greaves"]
     [:a {:href "/files/display-type.txt" :target "_blank"} "Assignment Content"]]]
 
   [:li.active
@@ -95,7 +98,10 @@
      [:li "TURN IN:"]
      [:li "* 1 color swatch for each section of text as a jpg"]
      [:li "* 1 webpage per section of text"]]
-    [:p [:span.xp "350"] "& Cloak of the Night Egret"]
+    [:p
+     [:span.xp "350"]
+     [:span.reward [:img {:src "/images/icons/torso.png"}]]
+     "Cloak of the Night Egret"]
     [:a {:href "/files/color.txt" :target "_blank"} "Assignment Content"]]]
 
   [:li.active
@@ -118,14 +124,39 @@
      [:li "* Three layout sketches"]
      [:li "* At least one color swatch"]
      [:li "* A link to your blog, hosted somewhere on the web"]]
-    [:p [:span.xp "400"] "& "]]]
+    [:p
+     [:span.xp "400"]
+     [:span.reward [:img {:src "/images/icons/wand.png"}]]
+     "Parrying Dagger"]]]
+
+  [:li.active
+   [:h4 "Fibonacci"]
+   [:div.lightbox
+    [:hgroup
+     [:h3 "Fibonacci"]
+     [:h4 "4 points | due Mon, Mar 11"]]
+    [:p "OBJECTIVE: Create a sister to " [:a {:href "http://modularscale.com/" :target "_blank"} "modularscale.com"] " using ratios found between Fibonacci numbers"]
+    [:p "DESCRIPTION: As a user, I want to be able to do the following:"]
+    [:ul
+     [:li "* Select a font, either by upload or by link to Google Web Fonts (or both!)"]
+     [:li "* Enter a base font size in pixels"]
+     [:li "* View an array of type sizes in the selected font with appropriate leading (see first row of attachment)"]
+     [:li "* View data for chosen ratios/size in px, em, and % (you will have to rethink the output of the existing Modular Scale)"]]
+    [:ul
+     [:li "TURN IN:"]
+     [:li "* Three layout sketches"]
+     [:li "* A link to the final project on the web"]]
+    [:p
+     [:span.xp "400"]
+     [:span.reward [:img {:src "/images/icons/torso.png"}]]
+     "Scale Breastplate"]
+    [:a {:href "/images/examples/fibonacci-example.jpg" :target "_blank"} "Example Image"]]]
+
 
   [:li.locked
-   [:h4 "Fibonacci Scale"]]
+   [:h4 "Gif Directory"]]
   [:li.locked
    [:h4 "Revise Tic Tac Toe"]]
-  [:li.locked
-   [:h4 "Design a Blog"]]
   [:li.locked
    [:h4 "Design a Portfolio"]]
  ]]
