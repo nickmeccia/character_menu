@@ -47,18 +47,18 @@
      [:span.xp "25"]]]]
 
   [:li.active
-   [:h4 "Color Scheme 1"]
+   [:h4 "Color 2"]
    [:div.lightbox
     [:hgroup
-     [:h3 "Color Scheme 1"]
+     [:h3 "Color 2"]
      [:h4 "Mandatory Side Quest"]]
-    [:p "DESCRIPTION: Create a color scheme of five colors, and then make images of different combinations of those colors as background color, dominant color, and highlight color in the vein of the slide images I made for Michael."]
+    [:p "DESCRIPTION: This quest is the same as story quest 'Color'."]
     [:ul
      [:li "TURN IN: "]
-     [:li "* Image of the 5 colors in the color scheme"]
-     [:li "* Three images of color combinations"]]
+     [:li "* One web page for each entry in the assignment text"]]
     [:p
-     [:span.xp "225"]]]]
+     [:span.xp "225"]]
+    [:a {:href "/files/color-2.txt" :target "_blank"} "Assignment Content"]]]
 
 
   ]]
