@@ -57,7 +57,7 @@
      [:li "TURN IN: "]
      [:li "* One web page for each entry in the assignment text"]]
     [:p
-     [:span.xp "225"]]
+     [:span.xp "200"]]
     [:a {:href "/files/color-2.txt" :target "_blank"} "Assignment Content"]]]
 
 

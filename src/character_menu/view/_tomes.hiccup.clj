@@ -36,7 +36,7 @@
      [:span.description "Silver Circlet of the Moon"]]
     ]]
 
-  [:li.active
+  [:li.completed
    [:h4 "Color Design Workbook"]
    [:h5 "by Terry Lee Stone"]
    [:div.lightbox.columns
@@ -47,7 +47,7 @@
      [:span.description "Leather Armbands"]]
     ]]
 
-  [:li.active
+  [:li.completed
    [:h4 "HTML 5 For Web Designers"]
    [:h5 "by Jeremy Keith"]
    [:div.lightbox.columns
