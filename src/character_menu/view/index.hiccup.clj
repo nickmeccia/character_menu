@@ -1,6 +1,6 @@
 [:div.content
  [:aside
-  [:img {:src "images/mark/04.png"}]]
+  [:img {:src "images/mark/05.png"}]]
 
  [:article
   [:hgroup

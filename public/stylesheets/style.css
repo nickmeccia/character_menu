@@ -19,8 +19,7 @@ aside {
   float: left;
 }
 aside img {
-  width: 700px;
-  margin: 2rem 0 0 -4rem;
+  margin: 0 0 0 -2rem;
 }
 article {
   width: 60%;
