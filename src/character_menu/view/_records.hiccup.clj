@@ -56,8 +56,8 @@
      "y&#1087;&#1080;p&#1068;"]
     ]]
 
-  [:li.locked
-   [:h4 "Blog post on ???"]
+  [:li.active
+   [:h4 "Blog post on Gifs"]
    [:div.lightbox
     [:p
      [:span.xp "50"]
@@ -65,8 +65,8 @@
      "Strigoi Summoner"]
     ]]
 
-  [:li.locked
-   [:h4 "Blog post on ???"]
+  [:li.active
+   [:h4 "Anothter blog post on Gifs"]
    [:div.lightbox
     [:p
      [:span.xp "50"]

@@ -31,7 +31,7 @@
    [:div.lightbox.columns
     [:img {:src "/images/books/1000-type-treatments.jpg"}]
     [:div
-     [:span.xp "100"]
+     [:span.xp "25"]
      [:span.reward [:img {:src "/images/icons/head.png"}]]
      [:span.description "Silver Circlet of the Moon"]]
     ]]
@@ -58,7 +58,7 @@
      [:span.description "Sabateur's Sabatons"]]
     ]]
 
-  [:li.active
+  [:li.completed
    [:h4 "CSS 3 For Web Designers"]
    [:h5 "by Dan Cederholm"]
    [:div.lightbox.columns
@@ -67,6 +67,28 @@
      [:span.xp "50"]
      [:span.reward [:img {:src "/images/icons/accessory.png"}]]
      [:span.description "Amulet of the Forgotten"]]
+    ]]
+
+  [:li.active
+   [:h4 "Responsive Web Design"]
+   [:h5 "by Ethan Marcotte"]
+   [:div.lightbox.columns
+    [:img {:src "/images/books/responsive-web-design.jpg"}]
+    [:div
+     [:span.xp "50"]
+     [:span.reward [:img {:src "/images/icons/hands.png"}]]
+     [:span.description "Sage Gloves"]]
+    ]]
+
+  [:li.active
+   [:h4 "Scalable and Modular Architecture for CSS"]
+   [:h5 "by Jonathan Snook"]
+   [:div.lightbox.columns
+    [:img {:src "/images/books/smacss.jpg"}]
+    [:div
+     [:span.xp "75"]
+     [:span.reward [:img {:src "/images/icons/feet.png"}]]
+     [:span.description "Good Greaves"]]
     ]]
 
   [:li.locked

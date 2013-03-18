@@ -136,8 +136,8 @@
      [:h3 "Fibonacci"]
      [:h4 "4 points | due Mon, Mar 11"]]
     [:p "OBJECTIVE: Create a sister to " [:a {:href "http://modularscale.com/" :target "_blank"} "modularscale.com"] " using ratios found between Fibonacci numbers"]
-    [:p "DESCRIPTION: As a user, I want to be able to do the following:"]
     [:ul
+     [:li "DESCRIPTION: As a user, I want to be able to do the following:"]
      [:li "* Select a font, either by upload or by link to Google Web Fonts (or both!)"]
      [:li "* Enter a base font size in pixels"]
      [:li "* View an array of type sizes in the selected font with appropriate leading (see first row of attachment)"]
@@ -152,11 +152,38 @@
      "Scale Breastplate"]
     [:a {:href "/images/examples/fibonacci-example.jpg" :target "_blank"} "Example Image"]]]
 
+  [:li.active
+   [:h4 "Gif Directory"]
+   [:div.lightbox
+    [:hgroup
+     [:h3 "Gif Directory"]
+     [:h4 "7 points | due Mon, Apr 1"]]
+    [:p "OBJECTIVE: Create a website where users can browse gifs based on emotions or keywords. This website should be responsive."]
+    [:ul
+     [:li "DESCRIPTION:"]
+     [:li "As a user, I want to be able to do the following:"]
+     [:li "* Browse a gallery of gifs based on category"]
+     [:li "* Search for a gif with tags matching an input string"]
+     [:li "* Press a button to copy the URL of a chosen gif to the clipboard"]]
+    [:ul
+     [:li "TURN IN:"]
+     [:li "* Three layout sketches"]
+     [:li "* A link to the final project on the web"]]
+    [:p "NOTES: Even though I am your client, I will also be on call as your User Experience consultant, and as such I have attached an image to help you get started. If you encounter any circumstances outiside of your expertise as the web designer and project manager for this app, feel free to outsource other tasks that you need but cannot complete yourself."]
+    [:p
+     [:span.xp "950"]
+     [:span.reward [:img {:src "/images/icons/wand.png"}]]
+     [:span.reward [:img {:src "/images/icons/shield.png"}]]
+     "Silver Wand, Silver Shield"]
+    [:a {:href "/images/examples/gif-directory-example.jpg" :target "_blank"} "UX Document"]]]
 
-  [:li.locked
-   [:h4 "Gif Directory"]]
+
   [:li.locked
    [:h4 "Revise Tic Tac Toe"]]
   [:li.locked
+   [:h4 "Design a tumblr theme for nick"]]
+  [:li.locked
    [:h4 "Design a Portfolio"]]
- ]]
+  [:li.locked
+   [:h4 "Hand-made type"]]
+  ]]
