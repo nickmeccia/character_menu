@@ -55,7 +55,7 @@
      "Soldier's Shield"]
     [:a {:href "/files/layout.txt" :target "_blank"} "Assignment Content"]]]
 
-  [:li.active
+  [:li.completed
    [:h4 "Display Type"]
    [:div.lightbox
     [:hgroup
@@ -86,7 +86,7 @@
      "Scale Greaves"]
     [:a {:href "/files/display-type.txt" :target "_blank"} "Assignment Content"]]]
 
-  [:li.active
+  [:li.completed
    [:h4 "Color"]
    [:div.lightbox
     [:hgroup

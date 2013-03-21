@@ -1,16 +1,16 @@
 [:div.content
  [:aside
-  [:img {:src "images/mark/05.png"}]]
+  [:img {:src "images/mark/portrait.png"}]]
 
  [:article
   [:hgroup
    [:h1 "dark3stvampyre"]
    [:h2 "fangbanger"]
-   [:h3 "level " [:span "1"] " blood mage"]
+   [:h3 "level " [:span "2"] " blood mage"]
    [:div.progress-bar
     [:div.completed
-     [:h4 "925 xp"]]
-    [:h4 "1125 xp"]]
+     [:h4 "450 xp"]]
+    [:h4 "1650 xp"]]
    [:a {:href "mailto:nickmeccia@gmail.com"} "Report a Completed Quest"]]
 
   (render-partial "quests")
