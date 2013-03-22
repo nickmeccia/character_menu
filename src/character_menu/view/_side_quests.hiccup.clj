@@ -60,5 +60,28 @@
      [:span.xp "200"]]
     [:a {:href "/files/color-2.txt" :target "_blank"} "Assignment Content"]]]
 
+  [:li.active
+   [:h4 "Read About Rad Typefaces"]
+   [:div.lightbox
+    [:hgroup
+     [:h3 "Read About Rad Typefaces"]
+     [:h4 "Mandatory Side Quest"]]
+    [:p "DESCRIPTION: Read " [:a {:href "http://typographica.org/features/our-favorite-typefaces-of-2012/" :target "_blank"} "this article"] " about Typographica's favorite typefaces of 2012. This includes reading the blurbs for each individual typeface and looking at all of the pictures. All pictures!"]
+    [:p
+     [:span.xp "25"]]]]
 
+  [:li.active
+   [:h4 "Layout 2"]
+   [:div.lightbox
+    [:hgroup
+     [:h3 "Layout 2 2"]
+     [:h4 "Mandatory Side Quest"]]
+    [:p "DESCRIPTION: This quest is the same as story quest 'Layout', except now you can use color!"]
+    [:ul
+     [:li "TURN IN: "]
+     [:li "* Three layout sketches"]
+     [:li "* One web page with content from the assignment text"]]
+    [:p
+     [:span.xp "175"]]
+    [:a {:href "/files/layout-2.txt" :target "_blank"} "Assignment Content"]]]
   ]]
