@@ -74,7 +74,7 @@
    [:h4 "Layout 2"]
    [:div.lightbox
     [:hgroup
-     [:h3 "Layout 2 2"]
+     [:h3 "Layout 2"]
      [:h4 "Mandatory Side Quest"]]
     [:p "DESCRIPTION: This quest is the same as story quest 'Layout', except now you can use color!"]
     [:ul
@@ -84,4 +84,20 @@
     [:p
      [:span.xp "175"]]
     [:a {:href "/files/layout-2.txt" :target "_blank"} "Assignment Content"]]]
+
+  [:li.locked
+   [:h4 "Layout 3"]
+   [:div.lightbox
+    [:hgroup
+     [:h3 "Layout 3"]
+     [:h4 "Mandatory Side Quest"]]
+    [:p "DESCRIPTION: This quest is the same as story quest 'Layout', except now you can use color!"]
+    [:ul
+     [:li "TURN IN: "]
+     [:li "* Three layout sketches"]
+     [:li "* One web page with content from the assignment text"]]
+    [:p
+     [:span.xp "250"]]
+    [:a {:href "/files/layout-2.txt" :target "_blank"} "Assignment Content"]]]
+
   ]]
