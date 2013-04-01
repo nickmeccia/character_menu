@@ -104,7 +104,7 @@
      "Cloak of the Night Egret"]
     [:a {:href "/files/color.txt" :target "_blank"} "Assignment Content"]]]
 
-  [:li.active
+  [:li.completed
    [:h4 "Blog"]
    [:div.lightbox
     [:hgroup

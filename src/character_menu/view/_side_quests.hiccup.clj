@@ -85,6 +85,20 @@
      [:span.xp "175"]]
     [:a {:href "/files/layout-2.txt" :target "_blank"} "Assignment Content"]]]
 
+  [:li.active
+   [:h4 "Book Covers"]
+   [:div.lightbox
+    [:hgroup
+     [:h3 "Book Covers"]
+     [:h4 "Mandatory Side Quest"]]
+    [:p "DESCRIPTION: If you know me, then you know that I am always saying \"Books should always be judged by their covers.\" Using the list of attached book titles and descriptions, design a webpage with the listed content that would appeal to the fans of the stated genre. You may use type and color, but no images."]
+    [:ul
+     [:li "TURN IN: "]
+     [:li "* One webpage per book"]]
+    [:p
+     [:span.xp "250"]]
+    [:a {:href "/files/book-covers-1.txt" :target "_blank"} "Assignment Content"]]]
+
   [:li.locked
    [:h4 "Layout 3"]
    [:div.lightbox
@@ -97,7 +111,6 @@
      [:li "* Three layout sketches"]
      [:li "* One web page with content from the assignment text"]]
     [:p
-     [:span.xp "250"]]
+     [:span.xp "300"]]
     [:a {:href "/files/layout-2.txt" :target "_blank"} "Assignment Content"]]]
-
   ]]

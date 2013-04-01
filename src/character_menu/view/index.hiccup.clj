@@ -9,7 +9,7 @@
    [:h3 "level " [:span "2"] " blood mage"]
    [:div.progress-bar
     [:div.completed
-     [:h4 "450 xp"]]
+     [:h4 "850 xp"]]
     [:h4 "1650 xp"]]
    [:a {:href "mailto:nickmeccia@gmail.com"} "Report a Completed Quest"]]
 
