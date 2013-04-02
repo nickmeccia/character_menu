@@ -99,18 +99,26 @@
      [:span.xp "250"]]
     [:a {:href "/files/book-covers-1.txt" :target "_blank"} "Assignment Content"]]]
 
-  [:li.locked
-   [:h4 "Layout 3"]
+  [:li.active
+   [:h4 "Magazine Cover"]
    [:div.lightbox
     [:hgroup
-     [:h3 "Layout 3"]
+     [:h3 "Magazine Cover"]
      [:h4 "Mandatory Side Quest"]]
-    [:p "DESCRIPTION: This quest is the same as story quest 'Layout', except now you can use color!"]
+    [:p "DESCRIPTION: Choose a color, and design the cover of a magazine devoted to that color, including title and headlines. For example, perhaps a magazine about 'red' is called 'Rad' and features a cover story about 'The Five Best Berries in the Supermarket.'"]
     [:ul
      [:li "TURN IN: "]
-     [:li "* Three layout sketches"]
-     [:li "* One web page with content from the assignment text"]]
+     [:li "* Create your image however you like: web page, Photoshop, Illustrator, etc"]]
     [:p
-     [:span.xp "300"]]
-    [:a {:href "/files/layout-2.txt" :target "_blank"} "Assignment Content"]]]
+     [:span.xp "300"]]]]
+
+
+
+  [:li.locked
+   [:h4 "  Fill a box with seven items from around your apartment. Randomly pick out one item from the box and take exactly sixty seconds to write a slogan that could be asssociated with the item. Do this for each item. Then, choose the most exceptional slogan and design a billboard for that product. Be sure to render your headline prominently."]]
+  [:li.locked
+   [:h4 "Hand-made type"]]
+
+
+
   ]]
