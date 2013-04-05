@@ -5,7 +5,7 @@
  [:article
   [:hgroup
    [:h1 "dark3stvampyre"]
-   [:h2 "fangbanger"]
+   [:h2 "blooddrinker"]
    [:h3 "level " [:span "2"] " blood mage"]
    [:div.progress-bar
     [:div.completed
