@@ -1,8 +1,8 @@
 [:section
-; [:h3 "records"]
+ [:h3 "records"]
  [:ol
 
-  [:li.locked
+  [:li.active
    [:h4 "Blog post on Typography"]
    [:div.lightbox
     [:p
@@ -11,7 +11,7 @@
      "Blooddrinker"]
     ]]
 
-  [:li.locked
+  [:li.active
     [:h4 "Blog post on Layout"]
     [:div.lightbox
      [:p
@@ -20,7 +20,7 @@
       "Vrykolakas"]
      ]]
 
-  [:li.locked
+  [:li.active
    [:h4 "Blog post on Display Type"]
    [:div.lightbox
     [:p
@@ -29,7 +29,7 @@
      "Midnight Caster"]
     ]]
 
-  [:li.locked
+  [:li.active
    [:h4 "Blog post on Color"]
    [:div.lightbox
     [:p
@@ -38,7 +38,7 @@
      "Nosferatu Warrior"]
     ]]
 
-  [:li.locked
+  [:li.active
    [:h4 "Blog post on Blog Posts!"]
    [:div.lightbox
     [:p
@@ -47,7 +47,7 @@
      "Consumer of Hearts"]
     ]]
 
-  [:li.locked
+  [:li.active
    [:h4 "Blog post on Fibonacci"]
    [:div.lightbox
     [:p
@@ -56,7 +56,7 @@
      "y&#1087;&#1080;p&#1068;"]
     ]]
 
-  [:li.locked
+  [:li.active
    [:h4 "Blog post on Gifs"]
    [:div.lightbox
     [:p
@@ -65,7 +65,7 @@
      "Strigoi Summoner"]
     ]]
 
-  [:li.locked
+  [:li.active
    [:h4 "Anothter blog post on Gifs!"]
    [:div.lightbox
     [:p
@@ -74,8 +74,8 @@
      "Sanguivore"]
     ]]
 
-  [:li.locked
-   [:h4 "Blog post on ???"]
+  [:li.active
+   [:h4 "Blog post on Tic-Tac-Toe"]
    [:div.lightbox
     [:p
      [:span.xp "50"]
@@ -83,8 +83,8 @@
      "Undead Conqueror"]
     ]]
 
-  [:li.locked
-   [:h4 "Blog post on ???"]
+  [:li.active
+   [:h4 "Another blog post on Tic-Tac-Toe"]
    [:div.lightbox
     [:p
      [:span.xp "50"]
@@ -92,8 +92,8 @@
      "Stealer of Souls"]
     ]]
 
-  [:li.locked
-   [:h4 "Blog post on ???"]
+  [:li.active
+   [:h4 "Blog post on Portfolios"]
    [:div.lightbox
     [:p
      [:span.xp "50"]
@@ -101,8 +101,8 @@
      "Dreadlord"]
     ]]
 
-  [:li.locked
-   [:h4 "Blog post on ???"]
+  [:li.active
+   [:h4 "Another blog post on portfolios"]
    [:div.lightbox
     [:p
      [:span.xp "50"]
