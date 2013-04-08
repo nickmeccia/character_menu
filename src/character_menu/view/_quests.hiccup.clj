@@ -147,7 +147,7 @@
      [:li "* Three layout sketches"]
      [:li "* A link to the final project on the web"]]
     [:p
-     [:span.xp "400"]
+     [:span.xp "450"]
      [:span.reward [:img {:src "/images/icons/torso.png"}]]
      "Scale Breastplate"]
     [:a {:href "/images/examples/fibonacci-example.jpg" :target "_blank"} "Example Image"]]]
@@ -171,19 +171,74 @@
      [:li "* A link to the final project on the web"]]
     [:p "NOTES: Even though I am your client, I will also be on call as your User Experience consultant, and as such I have attached an image to help you get started. If you encounter any circumstances outiside of your expertise as the web designer and project manager for this app, feel free to outsource other tasks that you need but cannot complete yourself."]
     [:p
-     [:span.xp "950"]
+     [:span.xp "1050"]
      [:span.reward [:img {:src "/images/icons/wand.png"}]]
      [:span.reward [:img {:src "/images/icons/shield.png"}]]
-     "Silver Wand, Silver Shield"]
+     "Silver Catalyst, Silver Shield"]
     [:a {:href "/images/examples/gif-directory-example.jpg" :target "_blank"} "UX Document"]]]
 
+  [:li.active
+   [:h4 "Revise Tic-Tac-Toe"]
+   [:div.lightbox
+    [:hgroup
+     [:h3 "Revise Tic-Tac-Toe"]
+     [:h4 "7 points | due Mon, Apr 15"]]
+    [:p "OBJECTIVE: Create a user interface for a tic tac toe game that uses typography and color to effectively communicate how to use the interface. If further user experience consideration is required, feel free to request assistance from the UX designer on retainer."]
+    [:ul
+     [:li "TURN IN:"]
+     [:li "* Sketches that illustrate a user's path through the app"]
+     [:li "* A link to the final project on the web"]]
+    [:p
+     [:span.xp "1250"]
+     [:span.reward [:img {:src "/images/icons/chest.png"}]]
+     [:span.reward [:img {:src "/images/icons/staff.png"}]]
+     "Darkmetal Breastplate, Weeping Willow"]
+    ]]
+
+  [:li.active
+   [:h4 "Portfolio"]
+   [:div.lightbox
+    [:hgroup
+     [:h3 "Portfolio"]
+     [:h4 "7 points | due Mon, Apr 29"]]
+    [:p "OBJECTIVE: Create a website to showcase the work you have completed during your design residency."]
+    [:ul
+     [:li "REQUIREMENTS:"]
+     [:li "* Must be responsive"]
+     [:li "* Must include at least one super-cool CSS animation"]]
+    [:ul
+     [:li "TURN IN:"]
+     [:li "* Three layout sketches"]
+     [:li "* A link to the final project on the web"]]
+    [:p
+     [:span.xp "1450"]
+     [:span.reward [:img {:src "/images/icons/head.png"}]]
+     [:span.reward [:img {:src "/images/icons/staff.png"}]]
+     "Crown of the Underworld, Fangs of the Impaler"]
+    ]]
 
   [:li.locked
-   [:h4 "Revise Tic Tac Toe"]]
+   [:h4 "Newsletter"]
+   [:div.lightbox
+    [:hgroup
+     [:h3 "Newsletter"]
+     [:h4 "999 points | due Fri, May 3"]]
+    [:p "OBJECTIVE: Create a template for a newsletter that can accommodate any number of the following sections."]
+    [:ul
+     [:li "SECTIONS:"]
+     [:li "* asdf"]
+     [:li "* asdfasd"]]
+    [:ul
+     [:li "TURN IN:"]
+     [:li "* A link to the final project on the web"]]
+    [:p
+     [:span.xp "800"]
+     [:span.reward [:img {:src "/images/icons/chest.png"}]]
+     "Wrath & Malice"]
+    ]]
+
   [:li.locked
    [:h4 "Design a tumblr theme for nick"]]
-  [:li.locked
-   [:h4 "Design a Portfolio"]]
   [:li.locked
    [:h4 "Hand-made type"]]
   ]]

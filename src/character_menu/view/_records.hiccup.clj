@@ -66,7 +66,7 @@
     ]]
 
   [:li.locked
-   [:h4 "Anothter blog post on Gifs"]
+   [:h4 "Anothter blog post on Gifs!"]
    [:div.lightbox
     [:p
      [:span.xp "50"]
